@@ -277,12 +277,13 @@ a:hover {
     backdrop-filter: blur(10px);
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: var(--border-radius-lg);
-    padding: var(--spacing-xl);
     margin-bottom: var(--spacing-xl);
     transition: var(--transition);
     box-shadow: var(--shadow-light);
     position: relative;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 .post-card::before {
@@ -294,6 +295,7 @@ a:hover {
     height: 4px;
     background: linear-gradient(90deg, var(--accent-color), var(--accent-secondary));
     border-radius: var(--border-radius-lg) var(--border-radius-lg) 0 0;
+    z-index: 2;
 }
 
 .post-card:hover {
@@ -305,6 +307,36 @@ a:hover {
 .post-card:hover::before {
     height: 6px;
     background: linear-gradient(90deg, var(--accent-secondary), var(--accent-color));
+}
+
+.post-thumbnail {
+    display: none;
+}
+
+.post-content-wrapper {
+    padding: var(--spacing-xl);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.post-content-wrapper .post-meta {
+    margin-bottom: var(--spacing-sm);
+}
+
+.post-content-wrapper .post-title {
+    margin-bottom: var(--spacing-md);
+    flex-grow: 0;
+}
+
+.post-content-wrapper .post-excerpt {
+    margin-bottom: var(--spacing-md);
+    flex-grow: 1;
+}
+
+.post-content-wrapper .read-more {
+    margin-top: auto;
+    align-self: flex-start;
 }
 
 .post-meta {

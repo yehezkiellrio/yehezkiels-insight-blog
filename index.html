@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/enhancements.css">
 </head>
 <body>
     <!-- Header -->
@@ -23,6 +24,7 @@
                     <ul class="nav-list">
                         <li><a href="index.html" class="nav-link active">Home</a></li>
                         <li><a href="about.html" class="nav-link">About</a></li>
+                        <li><button id="darkModeToggle" class="dark-mode-toggle">Dark Mode Off</button></li>
                     </ul>
                 </nav>
             </div>
@@ -47,6 +49,36 @@
                 <section class="posts-section">
                     <h2 class="section-title">Recent Posts</h2>
                     
+                    <article class="post-card">
+                        <div class="post-content-wrapper">
+                            <div class="post-meta">
+                                <time datetime="2025-07-31">31 Juli 2025</time>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="posts/fullness-of-christ.html">Fullness of Christ: Ketika Hidup Nggak Selalu Sesuai Ekspektasi</a>
+                            </h3>
+                            <div class="post-excerpt">
+                                <p>Kadang, kita punya pikiran, "Kalau saya ikut Yesus, hidup bakal lebih gampang dong, ya?" Well, kenyataannya sering kali nggak kayak gitu. Mengikut Yesus bukan berarti bebas dari masalah atau otomatis semua jadi lancar. Learn about walking with Jesus and finding the fullness of Christ when life doesn't meet expectations.</p>
+                            </div>
+                            <a href="posts/fullness-of-christ.html" class="read-more">Read More</a>
+                        </div>
+                    </article>
+
+                    <article class="post-card">
+                        <div class="post-content-wrapper">
+                            <div class="post-meta">
+                                <time datetime="2025-07-31">31 Juli 2025</time>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="posts/changing-the-atmosphere.html">Changing the Atmosphere: From Living in Fear to Living in Faith</a>
+                            </h3>
+                            <div class="post-excerpt">
+                                <p>Setiap orang pasti pernah takut, yes, termasuk saya juga. Kadang rasa takut itu muncul tiba-tiba, diem-diem di malam hari, atau bahkan pas lagi sibuk di tengah keramaian. Learn how to change the atmosphere from fear to faith and let faith lead the way.</p>
+                            </div>
+                            <a href="posts/changing-the-atmosphere.html" class="read-more">Read More</a>
+                        </div>
+                    </article>
+
                     <article class="post-card">
                         <div class="post-content-wrapper">
                             <div class="post-meta">
@@ -133,6 +165,8 @@
                             <a href="posts/hello-world.html" class="read-more">Read More</a>
                         </div>
                     </article>
+
+                    <button id="loadMorePosts" class="load-more">Load More Posts</button>
                 </section>
 
                 <!-- Sidebar -->
@@ -147,11 +181,11 @@
                     <div class="sidebar-widget">
                         <h3 class="widget-title">Recent Posts</h3>
                         <ul class="recent-posts">
+                            <li><a href="posts/fullness-of-christ.html">Fullness of Christ: Ketika Hidup Nggak Selalu Sesuai Ekspektasi</a></li>
+                            <li><a href="posts/changing-the-atmosphere.html">Changing the Atmosphere: From Living in Fear to Living in Faith</a></li>
                             <li><a href="posts/its-a-marathon-not-a-sprint.html">It's a Marathon – Not a Sprint</a></li>
                             <li><a href="posts/when-hurt-speaks.html">When Hurt Speaks: Revealing the Lesson Behind the Struggle</a></li>
                             <li><a href="posts/renewed-from-within.html">Renewed from Within: A New Life That Begins Inside</a></li>
-                            <li><a href="posts/heavens-standard-excellence.html">Heaven's Standard of Excellence</a></li>
-                            <li><a href="posts/hello-world.html">A New Beginning: Why I Started This Blog</a></li>
                         </ul>
                     </div>
 
@@ -203,5 +237,6 @@
     </footer>
 
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/enhancements.js"></script>
 </body>
 </html>

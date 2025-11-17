@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life on Purpose: More Than Just Existing - Yehezkiel's Insight</title>
+    <meta name="description" content="Kita diciptakan untuk tujuan atau purpose yang lebih tinggi. Ini soal 'why' kita melakukan yang kita lakukan.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+    <header class="header" id="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1><a href="../index.html">Yehezkiel's Insight</a></h1>
+                    <p class="tagline">Walking with Faith, Living with Purpose</p>
+                </div>
+                <nav class="nav">
+                    <ul class="nav-list">
+                        <li><a href="../index.html" class="nav-link">Home</a></li>
+                        <li><a href="../about.html" class="nav-link">About</a></li>
+                        <li><button id="darkModeToggle" class="dark-mode-toggle">Dark Mode Off</button></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <article class="post-content">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time datetime="2025-11-17">17 November 2025</time>
+                    </div>
+                    <h1 class="post-title">Life on Purpose: More Than Just Existing</h1>
+                </header>
+
+                <div class="post-body">
+                    <section class="post-section">
+                        <p>Hi! Kalau kamu lagi baca ini, anggep aja ini ajakan buat nge-pause sejenak dan nanya ke diri sendiri: <strong>Why are we here?</strong> Kenapa kita lahir di zaman ini, di timeline ini, di kota ini, di keluarga ini, dengan talenta dan “quirks” yang unik ini? Jawaban pendeknya: kita diciptakan untuk tujuan atau purpose yang lebih tinggi.</p>
+                        <p>Dan yes, “purpose” itu bukan sekedar kata motivasi. Ini soal <em>why</em>, alasan kenapa kita melakukan yang kita lakukan, dan kenapa hati baru bener-bener penuh (fulfilled) ketika arah hidup kita ketemu sama Rencana Tuhan.</p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>When We Climb the Wrong Mountain</h2>
+                        <p>Bayangin kita mendaki tebing setengah mati, lalu ketika udah sampai puncak baru sadar kalau: <strong>tebing yang kita panjat ini salah.</strong> Semuanya sia-sia dan kita cuma buang-buang waktu, tenaga, dan pikiran. Capeknya dapet, kosongnya juga dapet.</p>
+                        <p>Let’s see, banyak orang udah punya posisi, reputasi, materi, tapi tetep ngerasa hidupnya kosong. Kenapa? Karena <em>“when purpose is not known, abuse is inevitable.”</em> — Myles Munroe.</p>
+                        <p>Kalau kita nggak tahu <em>untuk apa</em> sesuatu itu ada, kita gampang <em>salah gunakan atau abuse hal itu</em> (ab-use = <em>abnormal</em> use), termasuk hidup kita sendiri jika kita tidak tau purpose hidup kita.</p>
+                        <p>Apa itu “tebing yang salah” dalam konteks hidup?</p>
+                        <ul class="affirmation-list">
+                            <li><strong>Karier yang naik, spiritual life yang turun.</strong><br>
+                            Kita kejar title, tapi kehilangan integritas, relasi, bahkan kesehatan.</li>
+                            <li><strong>Pelayanan yang “ramai”, hati yang sepi.</strong><br>
+                            Kita sibuk kerja untuk Tuhan, tapi jarang duduk bersama Tuhan.</li>
+                            <li><strong>Relationship goals, tapi kehilangan goal of Christlikeness.</strong><br>
+                            Banyak moment “bahagia” tapi sedikit pertumbuhan karakter.</li>
+                            <li><strong>Uang bertambah, makna berkurang.</strong><br>
+                            Kita produktif secara ekonomi, tapi tidak “fruitful” secara Rohani (tidak menolong, tidak membangun).</li>
+                        </ul>
+                        
+                        <p>Tanda-tanda kita lagi manjat tebing yang salah:</p>
+                        <ul class="affirmation-list">
+                            <li><strong>Identitas = performa.</strong><br>
+                            Ketika gagal, kita runtuh; ketika berhasil, kita sombong.</li>
+                            <li><strong>Ritme nggak sehat.</strong><br>
+                            Overwork, no Sabbath, nggak bisa berhenti.</li>
+                            <li><strong>Buahnya nggak sesuai Roh.</strong><br>
+                            Lebih banyak iri, marah, cemas dibanding kasih, sukacita, damai (Gal. 5:22–23).</li>
+                            <li><strong>Ukuran suksesnya dangkal.</strong><br>
+                            Hanya angka & applause, bukan transformasi & ketaatan.</li>
+                            <li><strong>Relasi jadi alat.</strong><br>
+                            Orang lain dipakai menjadi alat, bukan dikasihi.</li>
+                        </ul>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Kenapa kita bisa “ab-use” hidup kita sendiri?</h2>
+                        <ul class="affirmation-list">
+                            <li><strong>Salah sumber definisi.</strong><br>
+                            Dunia bilang “kamu berhasil kalau…”, sementara Firman bilang “kamu berharga karena Aku yang menciptakan dan menebusmu.” (Yes. 43:7; Ef. 2:10)</li>
+                            <li><strong>Salah kompas.</strong><br>
+                            Tujuan akhirnya ego, bukan kemuliaan Tuhan. <em>Good thing</em> tanpa <em>God</em> bisa jadi <em>wrong thing</em> bahkan worst thing.</li>
+                            <li><strong>Salah manual book.</strong><br>
+                            Kita pakai “manual book” yang dunia ajarkan, bukan “manual book” dari Tuhan, yaitu Firman-Nya yang ada di Alkitab.</li>
+                            <li><strong>Salah ritme.</strong><br>
+                            Kita ingin hasil instan, padahal proses hidup kita bertumbuh lewat kesetiaan jangka panjang.</li>
+                        </ul>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Normal use vs. Abnormal use</h2>
+                        <p><strong>Normal use (purpose-aligned):</strong> Talenta dipakai untuk <em>melayani</em> dan menghasilkan <em>buah</em> yang membuat orang melihat dan memuliakan Bapa (Mat. 5:16; Yoh. 15:8). Ada damai, integritas, pertumbuhan karakter.</p>
+                        <p><strong>Abnormal use (purpose-drift):</strong> Talenta dipakai demi <em>validasi</em> diri. Ada kecemasan, manipulasi, burnout, dan “kosong” meski tampak penuh.</p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Cara balik arah kalau sadar “tebingnya salah”</h2>
+                        <ul class="affirmation-list">
+                            <li><strong>Invite counsel.</strong><br>
+                            Minta mentor/komunitas di komsel menilai: “Apakah ini lane yang Tuhan mau?” (Ams. 11:14)</li>
+                            <li><strong>Pause & confess.</strong><br>
+                            Akui di hadapan Tuhan: “Tuhan, kami mungkin salah arah.” (Mazm. 139:23–24)</li>
+                            <li><strong>Balik ke Pencipta & manual book-Nya.</strong><br>
+                            Prioritaskan Firman Tuhan & doa, coba untuk lebih kenal dengan <em>Pribadi-Nya dulu</em>, bukan cuma <em>rencana-Nya</em>.</li>
+                            <li><strong>Re-define success.</strong><br>
+                            Ukur lewat <em>buah</em> (karakter, dampak, ketaatan), bukan sekedar pencapaian.</li>
+                            <li><strong>Realign ritme.</strong><br>
+                            Praktikkan <em>Sabbath</em>, batas kerja, komunitas yang sehat, biar kompas rohani tetap direct ke arah yang benar. (Mrk. 6:31)</li>
+                            <li><strong>Small faithful steps.</strong><br>
+                            Berhenti manjat tebing salah ≠ langsung loncat ke puncak yang benar. Turun pelan, pilih dinding yang tepat, panjat lagi, <em>setia</em> hari demi hari.</li>
+                        </ul>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Start with the Why: Serupa & Segambar</h2>
+                        <p>Ketika Tuhan Yesus ditanya hukum terutama, jawab-Nya jelas:</p>
+                        <blockquote class="quote">
+                            <p>“Kasihilah Tuhan, Allahmu… Dan yang kedua: kasihilah sesamamu manusia…”</p>
+                            <cite>(Matius 22:37–39)</cite>
+                        </blockquote>
+                        <p>Ini merupakan <em>commandment</em>, bukan <em>suggestion</em>. Kenapa mulai dari mengasihi Tuhan? Karena <strong>kita diciptakan serupa dan segambar dengan Dia</strong> (Kejadian 1:26–28). Semakin kita kenal Tuhan, semakin kita kenal diri kita sendiri. Semakin kita kenal diri kita sendiri, semakin kita mampu untuk mengasihi sesama dengan perspektif yang benar.</p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>God’s Framework: Plan → Create → Bless → Reveal</h2>
+                        <p>Apabila kita lihat Kejadian 1:26–28, ada pola kerja Tuhan yang rapi:</p>
+                        <ul class="affirmation-list">
+                            <li><strong>Plan (rencana)</strong> – “Baiklah Kita menjadikan manusia…” Tuhan <em>nggak random</em>; Dia penuh tujuan.</li>
+                            <li><strong>Create (eksekusi)</strong> – “Maka Allah menciptakan…” Rencana tanpa eksekusi cuma mimpi. <em>Fakta kita ada</em> = ada rencana Tuhan atas hidup kita.</li>
+                            <li><strong>Bless (perlengkapan)</strong> – “Allah memberkati mereka…” Berkat itu bentuknya <em>kapasitas</em>: bakat, talenta, kreativitas—bukan semata hasil akhir.</li>
+                            <li><strong>Reveal (diwahyukan)</strong> – “Beranakcuculah… penuhilah bumi… berkuasalah…” Setelah diperlengkapi, <em>Tuhan jelaskan tujuannya</em> supaya kita kerjakan, bukan sekadar tahu.</li>
+                        </ul>
+                        <p>Kalau kita beli handphone, mesin cuci, tv, dll pasti kita akan dapet manual book dari sang pembuat produk. Apa tujuannya si pembuat produk tersebut memberikan manual book? tujuannya adakah agar pengguna produk dapat memiliki perspektif yang sama dengan si pembuat produk.. Supaya pengguna tau kapasitas atau fitur apa saja dari produk itu biar pengguna bisa maksimalkan kemampuan produk itu dan hal hal apa saja yang jangan sampai pengguna lakukan pada produk itu agar pengguna tidak abuse produk tersebut. Kalau produk aja dikasih <em>manual book</em>, apalagi hidup kita. Kita butuh kenal <em>Pembuatnya</em>, bukan cuma “hafal fitur”-Nya supaya kita bisa memiliki perspektif yang sama dengan apa yang sudah Tuhan rencanakan dalam hidup kita.</p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Fruitful ≠ Chasing Money</h2>
+                        <p>“Beranakcuculah” bukan cuma soal keturunan; itu gambaran <em>produktifitas</em>. Tuhan kasih kita <em>pohon</em>, bukan langsung dalam bentuk lemari, meja, atau perahu. Artinya:</p>
+                        <p>Kita + Kreativitas dari Tuhan + Bahan baku sekitar = Value untuk orang lain.</p>
+                        <p>Semakin bermanfaat dan bermutu yang kita hasilkan, semakin wajar <em>value</em> (termasuk uang) datang mengejar kita.</p>
+                        <p><strong>When we are fruitful, we don’t need to chase after money.</strong></p>
+                        <p>Karena itu juga Alkitab tegas soal kemalasan. Belajar dari <em>semut</em>, tanpa disuruh, dia siapin roti di musim panas (Amsal 6:6–8). <em>Hustle with holiness.</em></p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>The Fall: Kapasitas Masih Ada, Arah yang Hilang</h2>
+                        <p>Dosa <em>memutus hubungan</em> dengan Sumber. Kapasitas kreatif tetap ada, kita masih bisa “produksi”, tapi <em>glory-nya hilang</em> (Roma 3:23).</p>
+                        <p>Hasilnya? Kita kerja keras, pencapaian nambah, tapi <em>fulfilment kosong</em>. Seperti Salomo: semuanya ada, tapi akhirnya berkata, <em>“segala sesuatu adalah kesia-siaan…”</em> (Pengkhotbah 2:4–11).</p>
+                        <p>Kenapa? Karena <strong>true fulfillment comes from knowing God personally, knowing God is more important than knowing His plan.</strong></p>
+                        <blockquote class="quote">
+                            <p>“Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu…”</p>
+                            <cite>(Yeremia 29:11)</cite>
+                        </blockquote>
+                        <p>Rencananya baik, tapi membangun <em>relasi</em> dengan Tuhan adalah pusatnya.</p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>We Carry a Brand: For His Glory</h2>
+                        <p>Tuhan berkata:</p>
+                        <blockquote class="quote">
+                            <p>“Semua orang… yang Kuciptakan <strong>untuk kemuliaan-Ku</strong>.”</p>
+                            <cite>(Yesaya 43:7)</cite>
+                        </blockquote>
+                        <blockquote class="quote">
+                            <p>“Kamu adalah <strong>terang dunia</strong>.”</p>
+                            <cite>(Matius 5:14)</cite>
+                        </blockquote>
+                        <blockquote class="quote">
+                            <p>“Engkau layak… sebab Engkau telah menciptakan segala sesuatu…”</p>
+                            <cite>(Wahyu 4:11, KJV)</cite>
+                        </blockquote>
+                        <p>Produk yang benar-benar menolong orang bikin <em>nama pabriknya</em> dimuliakan. Kita ambil contoh seperti Samsung, Apple, saat mereka launching produk yang berkualitas baik dan dapat bermanfaat bagi banyak orang, nama pabriknya akan disanjung dan mendapat kesan baik. Sebaliknya, kalau 2 brand besar itu launching produk yang dianggap fail oleh semua orang, nama pabrik tersebut juga akan jelek karena produk gagal yang launching tersebut. Begitu juga dengan kita. Waktu hidup kita dapat <em>berbuah, berguna, dan excellent,</em> <strong>Nama Tuhan Yesus</strong> yang dipermuliakan, bukan nama kita. Dan sebaliknya, kalau hidup kita ngawur dan jadi batu sandungan buat orang lain, kita akan membawa malu buat nama Tuhan.</p>
+                        <p>Dan ini stempel besarnya:</p>
+                        <blockquote class="quote">
+                            <p>“Kita ini <strong>buatan Allah</strong>, diciptakan dalam Kristus Yesus untuk <strong>pekerjaan baik</strong> yang dipersiapkan Allah sebelumnya…”</p>
+                            <cite>(Efesus 2:10)</cite>
+                        </blockquote>
+                        <p>Artinya kita <em>handcrafted by God</em>. Ada label “Jesus Christ” nempel di hidup kita. Pertanyaannya: <em>brand itu kita bawa mulia… atau malah bawa malu?</em></p>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Pitfalls yang Sering Bikin Purpose Kabur</h2>
+                        <ul class="affirmation-list">
+                            <li><strong>Comparison trap.</strong><br>
+                            Fokus mengisi panggilan atau purpose orang lain sampai lupa <em>lane</em> kita sendiri. Padahal talenta dibagi “menurut kesanggupannya” (Matius 25:15).</li>
+                            <li><strong>Perfectionism.</strong><br>
+                            Nunggu semuanya ideal baru mulai. Tuhan sering minta kita <em>melangkah dulu</em> baru <em>grace</em> dan <em>strength</em> disediakan di jalan. (Relate dengan post di blog ini, Fullness of Christ)</li>
+                            <li><strong>Ego-driven goals.</strong><br>
+                            Kelihatannya rohani, tapi dalam hati cari sorotan atau popularitas. Ukurnya sederhana: <em>apakah ini memuliakan Tuhan dan melayani orang?</em></li>
+                            <li><strong>Rhythm yang nggak sehat.</strong><br>
+                            Ngebut tanpa <em>Sabbath</em> bisa bikin burn-out. Yesus sendiri mengajak murid-murid <em>retreat sejenak</em> (Markus 6:31).</li>
+                        </ul>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>How to Walk Our Purpose</h2>
+                        <ul class="affirmation-list">
+                            <li><strong>Know the Maker, not just the manual.</strong><br>
+                            Prioritaskan keintiman dengan Tuhan melalui merenungkan Firman Tuhan, doa, <em>silence & solitude</em>. (Matius 22, Yohanes 15:5).</li>
+                            <li><strong>Audit talenta & konteks.</strong><br>
+                            Tulis bakat alami, skill yang sedang bertumbuh, <em>passion</em>, nilai yang kita pegang, plus “bahan baku” di sekitar (network, tools, peluang).</li>
+                            <li><strong>Serve to discover.</strong><br>
+                            Pelayanan adalah <em>training ground</em> yang aman. Dari sana sering lahir bisnis, karya, dan panggilan yang lebih jelas (1 Petrus 4:10).</li>
+                            <li><strong>Build holy habits.</strong><br>
+                            Rutinitas kecil: baca, belajar, latihan, menulis, berkarya, <em>setiap hari sedikit demi sedikit</em>. <em>Compounding faithfulness</em> > ledakan sesaat.</li>
+                            <li><strong>Work as worship.</strong><br>
+                            Apa pun juga yang kita perbuat, lakukan dengan segenap hati seperti untuk Tuhan (Kolose 3:23). Excellence adalah implementasi dari ibadah.</li>
+                            <li><strong>Aim for fruit, not fame.</strong><br>
+                            Parameter kita: buah Roh, dampak, dan pertumbuhan bagi orang lain, bukan sekadar impresi. (Yohanes 15:8).</li>
+                            <li><strong>Community & counsel.</strong><br>
+                            Purpose makin jelas ketika kita hidup <em>tertanam</em> dan diajar (Amsal 11:14). Minta <em>feedback</em> dari komunitas kita, belajar selalu rendah hati dan menerima teguran.</li>
+                            <li><strong>Iterate with God.</strong><br>
+                            Tulis <em>goal</em>, jalankan 90 hari, evaluasi bareng Tuhan. <em>Keep, Improve, Stop, Start.</em> Ulangi.</li>
+                        </ul>
+                    </section>
+
+                    <section class="post-section">
+                        <h2>Purpose Is About the Why</h2>
+                        <p>Kita <strong>nggak</strong> diciptakan untuk sekadar numpang lewat aja di dunia ini. Kita dibentuk untuk <strong>memuliakan Tuhan</strong> lewat hidup yang <em>fruitful, excellent, dan berdampak</em>.</p>
+                        <p>Mari berjalan bukan hanya <em>mengetahui</em> rencana Tuhan, tapi <em>menghidupi</em> relasi dengan Tuhan yang menjadi Sumber dari segala tujuan.</p>
+                        <p><strong>Let’s live on purpose, together, for His glory.</strong></p>
+                        <p>When our lives bear fruit, the world gets better and <strong>His Name</strong> shines brighter.</p>
+                    </section>
+
+                    <section class="post-section">
+                        <div class="post-signature">
+                            <p><strong>Warm regards,<br>YHZ</strong></p>
+                        </div>
+                    </section>
+                </div>
+
+                <footer class="post-footer">
+                    <div class="share-links">
+                        <h4>Share this post:</h4>
+                        <a href="https://twitter.com/intent/tweet?text=Life on Purpose: More Than Just Existing&url=" class="share-link">Twitter</a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=" class="share-link">Facebook</a>
+                        <a href="mailto:?subject=Check this out&body=Here is an interesting post about living on purpose:" class="share-link">Email</a>
+                    </div>
+                    <div class="post-navigation">
+                        <a href="fullness-of-christ.html" class="nav-button">← Previous Post</a>
+                        <a href="../index.html" class="nav-button">Back to Home →</a>
+                    </div>
+                </footer>
+            </article>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">Stay Connected</h3>
+                    <p>Subscribe to receive updates on new posts and insights.</p>
+                    <form class="subscription-form" id="subscriptionForm">
+                        <div class="form-group">
+                            <input type="email" id="emailInput" placeholder="Enter your email" class="email-input" required>
+                            <button type="submit" class="subscribe-btn">Subscribe</button>
+                        </div>
+                    </form>
+                </div>
+                
+                <div class="footer-section">
+                    <h3 class="footer-title">Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../about.html">About</a></li>
+                        <li><a href="#" class="social-link">Twitter</a></li>
+                        <li><a href="#" class="social-link">Facebook</a></li>
+                        <li><a href="https://www.instagram.com/yhzrio?igsh=dnE0amZlZWlhOXYy&utm_source=qr" class="social-link" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 Yehezkiel's Insight. Walking with Faith, Living with Purpose.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../assets/js/main.js"></script>
+</body>
+</html>

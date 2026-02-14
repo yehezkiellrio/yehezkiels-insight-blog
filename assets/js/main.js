@@ -396,5 +396,39 @@
             handleError
         };
     }
+// --- KODE AMPUH DARK MODE (Start) ---
+    function initGlobalDarkMode() {
+        // 1. Cek memori browser: Apakah user pilih Dark Mode?
+        const isDark = localStorage.getItem('darkMode') === 'true';
+        
+        // 2. Langsung terapkan gelap/terang ke HTML (tanpa nunggu tombol)
+        if (isDark) {
+            document.documentElement.classList.add('dark-mode');
+        } else {
+            document.documentElement.classList.remove('dark-mode');
+        }
 
+        // 3. Kalau ada tombolnya, kita update teksnya (biar sinkron)
+        const toggleBtn = document.getElementById('darkModeToggle');
+        if (toggleBtn) {
+            toggleBtn.textContent = isDark ? 'Dark Mode On' : 'Dark Mode Off';
+            
+            // Tambahkan fungsi klik
+            toggleBtn.addEventListener('click', function(e) {
+                e.preventDefault(); // Mencegah loncat ke atas
+                document.documentElement.classList.toggle('dark-mode');
+                const isNowDark = document.documentElement.classList.contains('dark-mode');
+                
+                // Simpan pilihan baru ke memori
+                localStorage.setItem('darkMode', isNowDark);
+                
+                // Update teks tombol
+                this.textContent = isNowDark ? 'Dark Mode On' : 'Dark Mode Off';
+            });
+        }
+    }
+
+    // Jalankan fungsi ini segera
+    initGlobalDarkMode();
+    // --- KODE AMPUH DARK MODE (End) ---
 })();

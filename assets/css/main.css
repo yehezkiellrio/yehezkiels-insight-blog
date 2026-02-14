@@ -1408,3 +1408,162 @@ a:focus {
         border: 1px solid #ccc;
     }
 }
+/* Dark Mode Variables */
+:root.dark-mode {
+    --primary-color: #90caf9;
+    --secondary-color: #64b5f6;
+    --accent-color: #42a5f5;
+    --accent-secondary: #ab47bc;
+    --text-color: #e0e0e0;
+    --text-light: #aaaaaa;
+    --background-color: #121212;
+    --background-light: #1e1e1e;
+    --background-gradient: linear-gradient(135deg, #1a237e 0%, #4a148c 100%);
+    --border-color: #333333;
+    --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2);
+    --shadow-medium: 0 10px 25px rgba(0, 0, 0, 0.4), 0 4px 10px rgba(0, 0, 0, 0.3);
+    --shadow-large: 0 20px 40px rgba(0, 0, 0, 0.5), 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* Dark Mode Toggle Button */
+.dark-mode-toggle {
+    background: transparent;
+    border: 1px solid var(--accent-color);
+    color: var(--accent-color);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    transition: var(--transition);
+    font-family: var(--font-primary);
+}
+
+.dark-mode-toggle:hover {
+    background: var(--accent-color);
+    color: white;
+    transform: translateY(-1px);
+}
+
+.dark-mode-toggle:focus {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 2px;
+}
+
+/* Back-to-Top Button */
+.back-to-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color: var(--accent-color);
+    color: white;
+    padding: 0.75rem 1rem;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s, transform 0.3s;
+    z-index: 999;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    box-shadow: var(--shadow-medium);
+}
+
+.back-to-top.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.back-to-top:hover {
+    background-color: var(--primary-color);
+    transform: translateY(-2px);
+}
+
+/* Load More Button */
+.load-more {
+    display: block;
+    margin: var(--spacing-xl) auto 0;
+    background-color: var(--accent-color);
+    color: white;
+    padding: var(--spacing-sm) var(--spacing-xl);
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.load-more:hover {
+    background-color: var(--primary-color);
+    transform: translateY(-1px);
+}
+
+/* Share Links */
+.share-links {
+    margin-bottom: var(--spacing-lg);
+    padding: var(--spacing-lg);
+    background-color: var(--background-light);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+}
+
+.share-links h4 {
+    margin-bottom: var(--spacing-sm);
+    color: var(--primary-color);
+    font-size: var(--font-size-base);
+}
+
+.share-links .share-link {
+    display: inline-block;
+    margin-right: var(--spacing-sm);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    background-color: var(--accent-color);
+    color: white;
+    text-decoration: none;
+    border-radius: var(--border-radius);
+    font-size: var(--font-size-sm);
+    transition: var(--transition);
+}
+
+.share-links .share-link:hover {
+    background-color: var(--primary-color);
+    transform: translateY(-1px);
+}
+
+/* Dark mode specific adjustments */
+.dark-mode .header {
+    background: rgba(30, 30, 30, 0.95);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.dark-mode .header.scrolled {
+    background: rgba(30, 30, 30, 0.98);
+}
+
+.dark-mode .post-card {
+    background: rgba(30, 30, 30, 0.9);
+    border: 1px solid rgba(51, 51, 51, 0.3);
+}
+
+.dark-mode .post-card:hover {
+    background: rgba(30, 30, 30, 0.95);
+}
+
+.dark-mode .sidebar-widget {
+    background: rgba(30, 30, 30, 0.8);
+    border: 1px solid rgba(51, 51, 51, 0.3);
+}
+
+.dark-mode .quote {
+    background: linear-gradient(135deg, rgba(30, 30, 30, 0.9) 0%, rgba(18, 18, 18, 0.9) 100%);
+}
+
+.dark-mode .post-content {
+    background-color: var(--background-color);
+}
+
+.dark-mode .post-header {
+    background: linear-gradient(135deg, var(--background-light) 0%, var(--background-color) 100%);
+}
